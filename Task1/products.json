@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Mobile Basic",
+    "price": 85165.36,
+    "stock": 24,
+    "categary": "Electronics"
+  },
+  {
+    "id": 2,
+    "title": "Mobile Pro",
+    "price": 35504.68,
+    "stock": 46,
+    "categary": "Electronics"
+  },
+  {
+    "id": 3,
+    "title": "Laptop Basic",
+    "price": 68161.65,
+    "stock": 6,
+    "categary": "Electronics"
+  },
+  {
+    "id": 4,
+    "title": "Laptop Pro",
+    "price": 69480.36,
+    "stock": 31,
+    "categary": "Electronics"
+  },
+  {
+    "id": 5,
+    "title": "Charger Basic",
+    "price": -500,
+    "stock": 28,
+    "categary": "Accessories"
+  },
+  {
+    "id": 6,
+    "title": "Charger Pro",
+    "price": 9979.31,
+    "stock": 14,
+    "categary": "Accessories"
+  },
+  {
+    "id": 7,
+    "title": "Earbuds Basic",
+    "price": 58138.31,
+    "stock": 13,
+    "categary": "Accessories"
+  },
+  {
+    "id": 8,
+    "title": "Earbuds Pro",
+    "price": 80798.92,
+    "stock": 22,
+    "categary": "Accessories"
+  },
+  {
+    "id": 9,
+    "title": "Smartwatch Basic",
+    "price": 3211.5,
+    "stock": 22,
+    "categary": "Electronics"
+  },
+  {
+    "id": 10,
+    "title": "Smartwatch Pro",
+    "price": 14116.46,
+    "stock": "many",
+    "categary": "Electronics"
+  },
+  {
+    "id": 11,
+    "title": "Keyboard Basic",
+    "price": 70028.42,
+    "stock": 30,
+    "categary": "Accessories"
+  },
+  {
+    "id": 12,
+    "title": "Keyboard Pro",
+    "price": 46796.78,
+    "stock": 43,
+    "categary": "Accessories"
+  },
+  {
+    "id": 13,
+    "title": "Mouse Basic",
+    "price": 2715.55,
+    "stock": 19,
+    "categary": "Accessories"
+  },
+  {
+    "id": 14,
+    "title": "Mouse Pro",
+    "price": 30805.76,
+    "stock": 3,
+    "categary": "Accessories"
+  },
+  {
+    "id": 15,
+    "title": "Monitor Basic",
+    "price": 0,
+    "stock": 43,
+    "categary": "Electronics"
+  },
+  {
+    "id": 16,
+    "title": "Monitor Pro",
+    "price": 57133.42,
+    "stock": 11,
+    "categary": "Electronics"
+  },
+  {
+    "id": 17,
+    "title": "Tablet Basic",
+    "price": 61929.22,
+    "stock": 15,
+    "categary": "Electronics"
+  },
+  {
+    "id": 18,
+    "title": "Tablet Pro",
+    "price": 54545.03,
+    "stock": 39,
+    "categary": "Electronics"
+  },
+  {
+    "id": 19,
+    "title": "Speaker Basic",
+    "price": 77906.09,
+    "stock": 0,
+    "categary": "Electronics"
+  },
+  {
+    "id": 20,
+    "title":"Speaker pro",
+    "price": 23193.9,
+    "stock": 35,
+    "categary": "Electronics"
+  },
+  {
+    "id": 21,
+    "title": "Power Bank Basic",
+    "price": 89843.21,
+    "stock": 16,
+    "categary": "Accessories"
+  },
+  {
+    "id": 22,
+    "title": "Power Bank Pro",
+    "price": 64891.24,
+    "stock": 23,
+    "categary": "Accessories"
+  },
+  {
+    "id": 23,
+    "title": "Camera Basic",
+    "price": 24631.29,
+    "stock": 47,
+    "categary": "Electronics"
+  },
+  {
+    "id": 24,
+    "title": "Camera Pro",
+    "price": 44853.2,
+    "stock": 26,
+    "categary": "Electronics"
+  },
+  {
+    "id": "abc",
+    "title": "Printer Basic",
+    "price": 21089.35,
+    "stock": 47,
+    "categary": "Electronics"
+  },
+  {
+    "id": 26,
+    "title": "Printer Pro",
+    "price": 85306.03,
+    "stock": 33,
+    "categary": "Electronics"
+  },
+  {
+    "id": 27,
+    "title": "Router Basic",
+    "price": 4199.77,
+    "stock": 6,
+    "categary": "Electronics"
+  },
+  {
+    "id": 28,
+    "title": "Router Pro",
+    "price": 63020.64,
+    "stock": 31,
+    "categary": "Electronics"
+  },
+  {
+    "id": 29,
+    "title": "Webcam Basic",
+    "price": 15363.25,
+    "stock": 8,
+    "categary": "Accessories"
+  },
+  {
+    "id": 30,
+    "title": "Webcam Pro",
+    "price": 29553.21,
+    "stock": 9,
+    "categary": "Accessories"
+  },
+  {
+    "id": 31,
+    "title": "Hard Drive Basic",
+    "price": 29825.74,
+    "stock": 42,
+    "categary": "Storage"
+  },
+  {
+    "id": 32,
+    "title": "Hard Drive Pro",
+    "price": 47853.37,
+    "stock": 8,
+    "categary": "Storage"
+  },
+  {
+    "id": 33,
+    "title": "USB Cable Basic",
+    "price": 2484.27,
+    "stock": 32,
+    "categary": "Accessories"
+  },
+  {
+    "id": 34,
+    "title": "USB Cable Pro",
+    "price": 19629.42,
+    "stock": 25,
+    "categary": "Accessories"
+  },
+  {
+    "id": 35,
+    "title": "Microphone Basic",
+    "price": 70274.22,
+    "stock": 45,
+    "categary": "Electronics"
+  },
+  {
+    "id": 36,
+    "title": "Microphone Pro",
+    "price": 30077.57,
+    "stock": 26,
+    "categary": "Electronics"
+  },
+  {
+    "id": 37,
+    "title": "Gaming Chair Basic",
+    "price": 61783.37,
+    "stock": 15,
+    "categary": "Furniture"
+  },
+  {
+    "id": 38,
+    "title": "Gaming Chair Pro",
+    "price": 59423.04,
+    "stock": 34,
+    "categary": "Furniture"
+  },
+  {
+    "id": 39,
+    "title": "Desk Lamp Basic",
+    "price": 8841.23,
+    "stock": 25,
+    "categary": "Furniture"
+  },
+  {
+    "id": 40,
+    "title": "Desk Lamp Pro",
+    "price": 21001.77,
+    "stock": 14,
+    "categary": "Furniture"
+  },
+  {
+    "id": 41,
+    "title": "Backpack Basic",
+    "price": 27902.67,
+    "stock": 13,
+    "categary": "Accessories"
+  },
+  {
+    "id": 42,
+    "title": "Backpack Pro",
+    "price": 77403.32,
+    "stock": 32,
+    "categary": "Accessories"
+  },
+  {
+    "id": 43,
+    "title": "Cooling Fan Basic",
+    "price": 76169.07,
+    "stock": 50,
+    "categary": "Accessories"
+  },
+  {
+    "id": 44,
+    "title": "Cooling Fan Pro",
+    "price": 64385.24,
+    "stock": 41,
+    "categary": "Accessories"
+  },
+  {
+    "id": 45,
+    "title": "Graphics Card Basic",
+    "price": 74522.46,
+    "stock": 50,
+    "categary": "Electronics"
+  },
+  {
+    "id": 46,
+    "title": "Graphics Card Pro",
+    "price": 73890.13,
+    "stock": 42,
+    "categary": "Electronics"
+  },
+  {
+    "id": 47,
+    "title": "RAM Stick Basic",
+    "price": 18650.88,
+    "stock": 0,
+    "categary": "Electronics"
+  },
+  {
+    "id": 48,
+    "title": "RAM Stick Pro",
+    "price": 58141.23,
+    "stock": 30,
+    "categary": "Electronics"
+  },
+  {
+    "id": 49,
+    "title": "SSD Drive Basic",
+    "price": 25430.86,
+    "stock": 48,
+    "categary": "Storage"
+  },
+  {
+    "id": 50,
+    "title": "SSD Drive Pro",
+    "price": 35817.92,
+    "stock": 15,
+    "categary": "Storage"
+  }
+]

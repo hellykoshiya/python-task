@@ -1,0 +1,14 @@
+venv/
+venv312/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+
+*.db
+
+.env
